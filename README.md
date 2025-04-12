@@ -1,4 +1,6 @@
 # Ideal-Sampling
+## NAGA PRAJITH N
+## 212223060178
 ## Aim:
   To demonstrate the sampling and reconstruction of a continuous-time signal using Python.
 ## Tools required:
